@@ -1,3 +1,12 @@
+On this repo used selenide for writing autotests on the https://github.com/ and https://the-internet.herokuapp.com Were used:
+
+* dragAndDropTo
+* closest
+* shouldHave
+* pressTab
+* click
+
+
 <details>
 
 <summary>Answer to the question first task</summary>
